@@ -1,1 +1,2 @@
-# Sdag_popgen_data
+This repository is for all data and analyses associated with the study on the populations genetics of Solenopsis daguerrei.
+...
